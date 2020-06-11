@@ -20,4 +20,4 @@ Data folder with `content` and `images` is used as a volume to make adding posts
 
 ### Run it on Google Cloud Run
 
-[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=git@github.com:FelDevWeb2/blog-public.gitt)
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/FelDevWeb2/blog-public.git)
